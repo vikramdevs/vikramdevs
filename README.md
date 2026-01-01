@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I’m currently working on:<br>Frontend projects with HTML, CSS, JavaScript and building small web apps<br><br>🤝 I’m looking to collaborate on:<br>Beginner-friendly web development projects or open-source contributions<br><br>📌 I’m looking for help with:<br>Improving clean code, project structure, and writing production-ready code<br><br>📚 I’m currently learning:<br>JavaScript, React, and Git/GitHub for real-world development<br><br>💬 Ask me about:<br>Frontend basics, Git/GitHub, responsive UI, project ideas<br><br>⚡ Fun fact:<br>I learn by building, not by just watching tutorials
+🛠 I’m currently learning:<br>Frontend projects with HTML, CSS, JavaScript and building small web apps<br><br>🤝 I’m looking to collaborate on:<br>Beginner-friendly web development projects or open-source contributions<br><br>📌 I’m looking for help with:<br>Improving clean code, project structure, and writing production-ready code<br><br>📚 I’m currently learning:<br>JavaScript, React, and Git/GitHub for real-world development<br><br>💬 Ask me about:<br>Frontend basics, Git/GitHub, responsive UI, project ideas<br><br>⚡ Fun fact:<br>I learn by building, not by just watching tutorials
 
 
 ## 🌐 Socials:
